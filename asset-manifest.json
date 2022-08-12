@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/happy-day/static/css/main.882c0645.css",
+    "main.js": "/happy-day/static/js/main.3f6c30ad.js",
+    "static/media/faceWithTongue.svg": "/happy-day/static/media/faceWithTongue.82a12054f0149de8630f5a6eff40999d.svg",
+    "static/media/Morganite-Bold.ttf": "/happy-day/static/media/Morganite-Bold.25e67bb245b2dc86b013.ttf",
+    "static/media/heartEyes.svg": "/happy-day/static/media/heartEyes.1663156cb6cd02f72da821fcd422bba2.svg",
+    "static/media/faceJoy.svg": "/happy-day/static/media/faceJoy.18a5822e1204ef5b1ad1d131265ee3bc.svg",
+    "static/media/starFace.svg": "/happy-day/static/media/starFace.d18697bb3c80b3cd62d66dd290261cd3.svg",
+    "static/media/emojiParty2.svg": "/happy-day/static/media/emojiParty2.b55fbb5efc8186a820e14aab0875d95a.svg",
+    "static/media/emojiParty.svg": "/happy-day/static/media/emojiParty.27bdd7780a77facf6840adadd5c70593.svg",
+    "static/media/mustache.svg": "/happy-day/static/media/mustache.788354ecf3b1c76e9620ff991f1a17be.svg",
+    "index.html": "/happy-day/index.html",
+    "static/media/blob.svg": "/happy-day/static/media/blob.482de141637d4c29bdb0819c6051ce9e.svg",
+    "main.882c0645.css.map": "/happy-day/static/css/main.882c0645.css.map",
+    "main.3f6c30ad.js.map": "/happy-day/static/js/main.3f6c30ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.882c0645.css",
+    "static/js/main.3f6c30ad.js"
+  ]
+}
