@@ -1,0 +1,25 @@
+.tribute__text {
+  height: 90vh;
+}
+
+.tribute__content {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.text {
+  width: 80%;
+  font-family: "Inter", sans-serif;
+  letter-spacing: 1px;
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 2.5em;
+}
+
+.tribute__icon {
+  margin-top: 5em;
+  width: 10%;
+}

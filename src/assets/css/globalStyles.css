@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "morganita";
+  src: url(../fonts/morganite/Morganite/Morganite-Bold.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Ubuntu", sans-serif;
+  color: var(--text__color);
+}
+
+body {
+  background-color: var(--bg__color);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --bg__color: #005189;
+
+  --title__color: #24a4de;
+  --subtitle__color: #fdffff;
+
+  --text__color: white;
+}
