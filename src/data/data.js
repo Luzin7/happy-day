@@ -18,7 +18,7 @@ export const data = [
       "Jamais poderei retribuir tudo o que o senhor fez por mim, mas, ainda assim, gostaria de agradecer e te desejar um feliz Dia dos Pais, cheio de felicidades e de muito amor.",
       "Todos que dizem ter o melhor pai do mundo são mentirosos, pois esse é um privilégio que apenas eu tenho. Parabéns pelo seu dia!",
       "Independentemente de todas as situações, quando eu mais preciso é você que sempre está ao meu lado. Feliz Dia dos Pais!",
-      "Mais que um pai, você é meu amigo, meu companheiro e meu herói. Ao seu lado sempre me sentir seguro(a) e muito amado(a). Saiba que seu dia não é só hoje, todos os dias são seus!",
+      "Mais que um pai, você é meu amigo, meu companheiro e meu herói. Ao seu lado sempre sinto segurança e amor. Saiba que seu dia não é só hoje, todos os dias são seus!",
       "Pai, com você aprendi boa parte das coisas que sei hoje, entre elas a nunca parar de buscar e aprender. Parabéns pelo seu dia!",
       "Feliz Dia dos Pais! Não há nenhum presente no mundo capaz de demonstrar o quanto de amo. Obrigado por tudo!",
       "Estamos separados pela distância, mas jamais pelos sentimentos. Seus ensinamentos, conselhos e o amor que sempre demonstrou por mim sempre estarão intactos não importa aonde eu esteja. Tenha um feliz Dia dos Pais!",
