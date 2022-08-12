@@ -3,6 +3,7 @@
   background: linear-gradient(0deg, #0e72ab 0%, #005189 40%);
   background-color: var(--bg__color);
   height: 100vh;
+  z-index: 1;
 }
 
 .banner__content {
@@ -32,7 +33,7 @@
 
 #tribute__name {
   top: 1em;
-  text-shadow: 0px -7px 10px var(--bg__color);
+  text-shadow: 0px -7px 10px var(--shadow__color);
   color: var(--title__color);
   font-size: 25em;
   text-transform: uppercase;
@@ -50,7 +51,9 @@
 .e1,
 .e2,
 .e3,
-.e4 {
+.e4,
+.e5,
+.e6 {
   width: 20%;
   position: absolute;
 }
@@ -81,6 +84,22 @@
   left: 20%;
   bottom: 10%;
 }
+.e5 {
+  animation: rotateEmojis 1s infinite ease-in-out;
+  width: 25%;
+  right: 10%;
+  top: 40%;
+  rotate: 15deg;
+  opacity: 0;
+}
+.e6 {
+  animation: rotateEmojis 1s infinite ease-in-out;
+  width: 25%;
+  left: 22%;
+  rotate: -90deg;
+  top: 40%;
+  opacity: 0;
+}
 
 @keyframes floatEmojis {
   0% {
@@ -91,5 +110,17 @@
   }
   100% {
     transform: translateY(0px);
+  }
+}
+
+@keyframes rotateEmojis {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(10deg);
+  }
+  100% {
+    transform: rotate(0deg);
   }
 }
