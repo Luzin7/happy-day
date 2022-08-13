@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/happy-day/static/css/main.67758860.css",
+    "main.css": "/happy-day/static/css/main.18326ca9.css",
     "main.js": "/happy-day/static/js/main.96269429.js",
     "static/media/faceWithTongue.svg": "/happy-day/static/media/faceWithTongue.82a12054f0149de8630f5a6eff40999d.svg",
     "static/media/Morganite-Bold.ttf": "/happy-day/static/media/Morganite-Bold.25e67bb245b2dc86b013.ttf",
@@ -12,11 +12,11 @@
     "static/media/mustache.svg": "/happy-day/static/media/mustache.a2e714dd8cc977e74c2fa21833ba99ae.svg",
     "index.html": "/happy-day/index.html",
     "static/media/blob.svg": "/happy-day/static/media/blob.1c2f9455ca0e1a99e720e98113ba900e.svg",
-    "main.67758860.css.map": "/happy-day/static/css/main.67758860.css.map",
+    "main.18326ca9.css.map": "/happy-day/static/css/main.18326ca9.css.map",
     "main.96269429.js.map": "/happy-day/static/js/main.96269429.js.map"
   },
   "entrypoints": [
-    "static/css/main.67758860.css",
+    "static/css/main.18326ca9.css",
     "static/js/main.96269429.js"
   ]
 }
