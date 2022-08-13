@@ -1,9 +1,1 @@
-import { data } from "../data/data.js";
-
-export const getRandomText = () => {
-  const texts = data[0].text;
-
-  const text = texts[Math.floor(Math.random() * texts.length)];
-
-  return text;
-};
+import{data}from"../data/data.js";const getRandomText=()=>{var t=data[0].text;return t[Math.floor(Math.random()*t.length)]};export{getRandomText};
