@@ -28,12 +28,12 @@ function Home() {
     e1.style.top = 20 - value / 50 + "%";
     e2.style.top = 60 - value / 100 + "%";
     e3.style.top = 10 - value / 20 + "%";
-    e4.style.bottom = 10 + value / 150 + "%";
-    e5.style.right = 35 - value / 40 + "%";
+    e4.style.bottom = 10 + value / 110 + "%";
+    e5.style.right = 35 - value / 35 + "%";
     e5.style.opacity = value / 2 + "%";
-    e6.style.left = 35 - value / 40 + "%";
+    e6.style.left = 35 - value / 35 + "%";
     e6.style.opacity = value / 2 + "%";
-    tributeName.style.top = 1 - value / 4000 + "em";
+    tributeName.style.top = 43.1 - value / 120 + "vh";
   });
   return (
     <section className="banner__tribute">
