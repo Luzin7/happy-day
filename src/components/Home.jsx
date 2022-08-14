@@ -61,6 +61,7 @@ function Home() {
           <img className="emoji e5" src={emojiParty} alt="party emoji" />
           <img className="emoji e6" src={emojiParty2} alt="party emoji" />
         </div>
+      <p id="scrollDown">Role para baixo.</p>
       </div>
     </section>
   );
